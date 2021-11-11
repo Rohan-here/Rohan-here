@@ -33,8 +33,6 @@ Connect with me :<a href="https://www.linkedin.com/in/rohan-gupta-952737192/"> L
 </p>
 
 
-<!-- <div align="center">  
-  <h3>Github Stats</h3>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohan-here)](https://github.com/anuraghazra/github-readme-stats)
-</div>
- -->
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rohan-here&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ 
