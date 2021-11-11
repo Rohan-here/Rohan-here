@@ -13,6 +13,8 @@
 - 📫 Contact Me : guptarohan2002@gmail.com
 - ⚡ Fun fact: I love anime 
 
+Connect with me :<a href="https://www.linkedin.com/in/rohan-gupta-952737192/"> LinkedIn </a> | <a href="https://www.instagram.com/not_rohan_gupta/"> Instagram </a>|<a href="https://twitter.com/RohanGu51951352?t=PCicp6qSPNDLGHW652VrPg&s=08"> Twitter </a>|<a href="https://devfolio.co/@notrohan"> Devfolio </a>| 
+
 <h3>Languages and Tools</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" height="40px" />
@@ -33,4 +35,5 @@
 
 <div align="center">  
   <h3>Github Stats</h3>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rohan-here&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 </div>
