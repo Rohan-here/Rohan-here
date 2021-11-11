@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" height="40px"/>
 </p>
 
-<h3>Github Stats</h3>
+
 <div align="center">  
-  
+  <h3>Github Stats</h3>
 </div>
