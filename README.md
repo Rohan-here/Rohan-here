@@ -1,4 +1,4 @@
-### Yo Rohan here  👋
+### Yo Rohan here 😎🔥
 
 <!--
 **Rohan-here/Rohan-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,3 +13,4 @@
 - 📫 Contact Me : guptarohan2002@gmail.com
 - ⚡ Fun fact: I love anime 
 
+<h3>Languages and Tools</h3>
