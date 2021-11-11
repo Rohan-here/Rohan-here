@@ -32,5 +32,5 @@
 
 <h3>Github Stats</h3>
 <div align="center">  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rohan-here&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
 </div>
